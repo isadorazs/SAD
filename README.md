@@ -1,2 +1,2 @@
 # SAD
-##Repositorio destinado a disciplina de Sistema de Apoio a Decisão.
+## Repositorio destinado a disciplina de Sistema de Apoio a Decisão.
